@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=200&text=Pisue's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+[![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=200&text=Pisue's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpisue%2Fhit-counter&count_bg=%237B9CEB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - ⚡ 부족함을 원동력으로 삼아 성장하는 개발자입니다
