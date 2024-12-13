@@ -22,7 +22,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> 
          <a href="https://velog.io/@pisue22"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
-         <a href="www.linkedin.com/in/화평-유-5025a733b"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
+         <a href="www.linkedin.com/in/pisue"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
          <a href="mailto:﻿"pisue22@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="> </a>
          <a href="mailto:﻿"pisue22@gmail"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
           </div>  <br> 
