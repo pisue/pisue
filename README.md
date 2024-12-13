@@ -7,15 +7,31 @@
 - 👯 팀 협업과 문제 해결에 익숙합니다
 
 ---
-### 📫Blog
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
+         <a href=> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="> </a>
+         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+
+### 📫 Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pisue22)](https://velog.io/@pisue22)
 
-<center>
-  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pisue22)](https://velog.io/@pisue22/%ED%9A%8C%EA%B3%A0%EB%A1%9D-%ED%95%AD%ED%95%B4-%EB%B0%B1%EC%97%94%EB%93%9C6%EA%B8%B0%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0)
-
-</center>
-
+    
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisue)](https://github.com/anuraghazra/github-readme-stats)
